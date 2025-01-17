@@ -48,5 +48,5 @@ def main():
         else:
             print(f"The answer is {result}")
 
-if __name__ == "__main__": #dunder-main idiom
+if __name__ == "__main__":
     main()
